@@ -1,4 +1,4 @@
-let API_KEY = "10d535d8dad64606479a529972f16544";
+let API_KEY = "4963fbb2c855dd3aca35ca980aa662a6";
 
 
 getWeatherdata = (city) => {
